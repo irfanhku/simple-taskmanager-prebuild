@@ -280,21 +280,27 @@ Buka file `.firebaserc` di folder utama dan ganti nama project:
 
 Website ini sudah di-compile dan siap pakai (*prebuilt*). Anda **tidak perlu menjalankan build apa pun**.
 
-1. Buka folder proyek ini di Terminal atau PowerShell.
-   > *Tips Windows:* Masuk ke folder proyek, klik kanan di area kosong lalu pilih **"Open in Terminal"** atau **"Buka di Terminal"**.
+1. Buka file `firebase-tools-instant-win.exe` yang tadi sudah didownload dan simpan di `FOLDER_WEB`.
 
-2. Jalankan perintah login:
-   ```bash
-   firebase login
+2. Lalu ada pilihan (Yes/No) untuk Gemini dan Collect data, pilih sesuai yang Anda inginkan.
+3. *Kemudian, browser akan terbuka otomatis. Masuk dengan akun Google/Firebase yang Anda gunakan di Tahap 1, Jika ada pop-up klik **Allow**.*
+
+4. Tunggu beberapa detik untuk login, hingga terminal akan menampilkan pesan:
+   ```text
+   Waiting for authentication...
+
+   +  Success! Logged in as <youremail>@gmail.com
+
+   + You can now use the 'firebase' or 'npm' commands!
+   ~ For more help see https://firebase.google.com/docs/cli/
    ```
-   *Browser akan terbuka otomatis. Masuk dengan akun Google/Firebase yang Anda gunakan di Tahap 1, lalu klik **Allow**.*
 
-3. Jalankan perintah deploy:
+4. Setelah berhasil login, jalankan perintah deploy:
    ```bash
    firebase deploy
    ```
 
-4. Tunggu beberapa detik hingga proses selesai. Terminal akan menampilkan pesan:
+5. Tunggu beberapa detik hingga proses selesai. Terminal akan menampilkan pesan:
    ```text
    ✔  Deploy complete!
 
