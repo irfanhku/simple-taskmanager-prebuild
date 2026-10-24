@@ -5,7 +5,7 @@ Panduan praktis langkah demi langkah untuk **pengguna biasa** (tanpa perlu paham
 > Download file dan ikuti panduan dibawah
 
 <p align="center">
-  <a href="https://download-directory.github.io/?url=https://github.com/irfanhku/simple-taskmanager-prebuild/tree/main/FOLDER_WEB&filename=FOLDER_WEB" target="_blank">
+  <a href="https://download-directory.github.io/?url=https://github.com/irfanhku/simple-taskmanager-prebuild/tree/main/EXTRACT_ME&filename=EXTRACT_ME" target="_blank">
     <img src="https://img.shields.io/badge/⬇ Download%20ZIP-2ea44f?style=for-the-badge" alt="Download ZIP">
   </a>
   &nbsp;
@@ -43,13 +43,13 @@ Sebelum memulai, siapkan 3 hal berikut di komputer/laptop Anda:
 
 1. **Akun Google**: Untuk login ke [Firebase Console](https://console.firebase.google.com/) (100% Gratis di paket Spark).
 2. **Firebase CLI**: Download file dari tombol diatas atau [klik sini](https://github.com/firebase/firebase-tools/releases/latest/download/firebase-tools-instant-win.exe).
-3. **Donwload `FOLDER_WEB`**: Downlaod file dari tombol diatas atau [klik disini](https://download-directory.github.io/?url=https://github.com/irfanhku/simple-taskmanager-prebuild/tree/main/FOLDER_WEB).
+3. **Donwload `EXTRACT_ME`**: Downlaod file dari tombol diatas atau [klik disini](https://download-directory.github.io/?url=https://github.com/irfanhku/simple-taskmanager-prebuild/tree/main/EXTRACT_ME&filename=EXTRACT_ME).
 
 Setelah ketiga hal diatas sudah ada, lanjutkan proses dibawah ini:
 
 #### **A. Ekstrak dan Susun Folder Website**
 
-Setelah mengunduh `FOLDER_WEB` dan Firebase CLI, ekstrak terlebih dahulu arsip `FOLDER_WEB`. Kemudian, pindahkan file Firebase CLI yang bernama seperti `firebase-tools-instant-win.exe` ke dalam direktori utama `FOLDER_WEB`.
+Setelah mengunduh `EXTRACT_ME` dan Firebase CLI, ekstrak terlebih dahulu sehingga dapat `FOLDER_WEB`. Kemudian, pindahkan file Firebase CLI yang bernama seperti `firebase-tools-instant-win.exe` ke dalam direktori utama `FOLDER_WEB`.
 
 Pastikan struktur folder Anda sudah sesuai dengan susunan berikut:
 
