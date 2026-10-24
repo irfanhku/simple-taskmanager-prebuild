@@ -1,0 +1,8 @@
+{
+  "apiKey": "API_KEY_KAMU",
+  "authDomain": "PROJECT_ID_KAMU.firebaseapp.com",
+  "projectId": "PROJECT_ID_KAMU",
+  "storageBucket": "PROJECT_ID_KAMU.firebasestorage.app",
+  "messagingSenderId": "MESSAGING_SENDER_ID_KAMU",
+  "appId": "APP_ID_KAMU"
+}
